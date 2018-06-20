@@ -1,0 +1,34 @@
+#Author: Mdshohid H Patoary
+03/05/2018
+We create a project name BDDMyWiproCucumberFrameworkFimalRelease v1
+Converted to Maven Project
+Download all related jers
+03/06/2018
+Created FeaturesTestCase Folder for writing Test Cases using Gharkins languges 
+Created multiple feature file as per requirments 
+03/07/2018
+Created main folder and resources folder for screnshort holding cell
+created BDDResources Folder
+03/08/2018
+Added ExtentReporterNG.Java class for extent reporting collected from Mr Edwin Mabu
+Created BDDUtility Packages and created two classes one for Re-usable method class and BaseMain interface
+03/09/2018
+Created Cucumber Pacages for Step defenation and created a class called Hooks.java and Created LoginTestStepDef.java for login step defenation.
+03/12/2018
+created BDDtest package and created class called TC001LoginTest for testing class
+03/14/2018
+opned WiproLogin.features and write feature test case related to this requirment
+opned login test step defenation class and wrote element anf functional code.
+03/15/2018
+opned Hooks.java class and write method for hooks and connect hooks to LoginTestStepDef.java class
+03/16/2018
+Opned BDDUtility packages and opned re-Usable class and wrote screenshort method and wait statement for reuse now we can use this two method when we need inside the scrept.
+opned TC001LoginTest.java and wrote code to run as Junit test and running sucessfully
+03/20/2018
+Add Abtruct TestNG Plugin on TC001LoginTest for extent reporting 
+03/21/2018
+created Cucumbertestng.xml and plugin extent report with MR edwin mabu
+03/22/2018
+Run Cucumbertestng.xml , its running fime and provided extent reportong in side test-output
+
+#Author:
